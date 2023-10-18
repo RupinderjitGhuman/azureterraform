@@ -1,0 +1,8 @@
+resource_group_name = "ET-Terraform-Test-databricks"
+storage_account_name = "ettest"
+location = "canada central"
+Databrick_workspace_name = "ETTestDatabrick001"
+subnet_id = "/subscriptions/7739b8d4-eb08-431f-b752-b3bc116a0d8b/resourceGroups/FHA-SO-Infra-Net-001/providers/Microsoft.Network/virtualNetworks/vnet-001/subnets/MISC"
+vnet_id = "/subscriptions/7739b8d4-eb08-431f-b752-b3bc116a0d8b/resourceGroups/FHA-SO-Infra-Net-001/providers/Microsoft.Network/virtualNetworks/vnet-001"
+vnet_resourcegroup_name = "FHA-SO-Infra-Net-001"
+vnet_name = "vnet-001"
